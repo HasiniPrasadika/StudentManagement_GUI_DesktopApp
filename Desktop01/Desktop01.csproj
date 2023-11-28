@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Model\Images\**" />
+    <EmbeddedResource Remove="Model\Images\**" />
+    <None Remove="Model\Images\**" />
+    <Page Remove="Model\Images\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Image\1.png" />
+    <None Remove="Image\10.png" />
+    <None Remove="Image\2.png" />
+    <None Remove="Image\3.png" />
+    <None Remove="Image\4.png" />
+    <None Remove="Image\5.png" />
+    <None Remove="Image\webinar.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.0-preview1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\1.png" />
+    <Resource Include="Image\10.png" />
+    <Resource Include="Image\2.png" />
+    <Resource Include="Image\3.png" />
+    <Resource Include="Image\4.png" />
+    <Resource Include="Image\5.png" />
+    <Resource Include="Image\webinar.png" />
+  </ItemGroup>
+
+</Project>

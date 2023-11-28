@@ -1,0 +1,81 @@
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\semester 03 my\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\Semester 03\GUI programming\CA assignment\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
